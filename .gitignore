@@ -1,0 +1,16 @@
+.DS_Store
+project/project/
+project/target/
+target/
+.idea/
+build/
+lib_managed/
+SimulationTime.csv
+.bsp
+results
+*.iml
+*.ipr
+*.iws
+*.version-setter
+artifacts.jsonl
+/src/test/scala/com/workday/perf/hcm/delete.sc

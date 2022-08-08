@@ -1,0 +1,145 @@
+2022.05.14 14:14:10 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/cristian.tudose/Documents/mylearning/scala/exercices/.metals/lsp.trace.json or /Users/cristian.tudose/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.05.14 14:14:10 INFO  logging to file /Users/cristian.tudose/Documents/mylearning/scala/exercices/.metals/metals.log
+2022.05.14 14:14:10 INFO  Started: Metals version 0.11.5 in workspace '/Users/cristian.tudose/Documents/mylearning/scala/exercices' for client Visual Studio Code 1.67.0.
+2022.05.14 14:14:12 INFO  time: initialize in 1.87s
+2022.05.14 14:14:12 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.14 14:14:12 WARN  Build server is not auto-connectable.
+2022.05.14 14:14:23 INFO  running '/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/r1/myd8hsj10rx20ltqrccj344m0000gp/T/metals1627206395551030877/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.05.14 14:14:23 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/project/project/metals.sbt
+2022.05.14 14:14:23 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/project/metals.sbt
+2022.05.14 14:14:23 INFO  skipping build import with status 'Started'
+2022.05.14 14:14:24 INFO  [info] welcome to sbt 1.6.1 (AdoptOpenJDK Java 11.0.10)
+2022.05.14 14:14:25 INFO  [info] loading global plugins from /Users/cristian.tudose/.sbt/1.0/plugins
+2022.05.14 14:14:28 INFO  [info] loading settings for project exercices-build-build-build from metals.sbt ...
+2022.05.14 14:14:28 INFO  [info] loading project definition from /Users/cristian.tudose/Documents/mylearning/scala/exercices/project/project/project
+2022.05.14 14:14:29 INFO  no build target found for /Users/cristian.tudose/Documents/mylearning/scala/exercices/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.14 14:14:30 INFO  [info] loading settings for project exercices-build-build from metals.sbt ...
+2022.05.14 14:14:30 INFO  [info] loading project definition from /Users/cristian.tudose/Documents/mylearning/scala/exercices/project/project
+2022.05.14 14:14:33 INFO  [success] Generated .bloop/exercices-build-build.json
+2022.05.14 14:14:33 INFO  [success] Total time: 3 s, completed May 14, 2022, 2:14:33 PM
+2022.05.14 14:14:34 INFO  [info] loading settings for project exercices-build from metals.sbt,plugins.sbt ...
+2022.05.14 14:14:34 INFO  [info] loading project definition from /Users/cristian.tudose/Documents/mylearning/scala/exercices/project
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:36 INFO  [error] SERVER ERROR: Bad Gateway url=https://dl.bintray.com/sbt/sbt-plugin-releases/ch.epfl.scala/sbt-bloop/1.5.0/jars/sbt-bloop.jar
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:14:41 INFO  [error] SERVER ERROR: Bad Gateway url=https://dl.bintray.com/sbt/sbt-plugin-releases/org.apache.logging.log4j/log4j/2.17.1/jars/log4j.jar
+2022.05.14 14:14:57 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:00 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:01 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:01 INFO  [error] SERVER ERROR: Bad Gateway url=https://dl.bintray.com/sbt/sbt-plugin-releases/com.workday/syman-plugins/scala_2.12/sbt_1.0/2.5.5/srcs/syman-plugins-sources.jar
+2022.05.14 14:15:01 INFO  [error] SERVER ERROR: Bad Gateway url=https://dl.bintray.com/sbt/sbt-plugin-releases/com.workday/syman-plugins/scala_2.12/sbt_1.0/2.5.5/docs/syman-plugins-javadoc.jar
+2022.05.14 14:15:01 INFO  [error] Unable to find credentials for [Artifactory Realm @ artifactory.workday.com].
+2022.05.14 14:15:01 INFO  [error] SERVER ERROR: Bad Gateway url=https://dl.bintray.com/sbt/sbt-plugin-releases/org.scala-sbt/sbt-duplicates-finder/scala_2.12/sbt_1.0/0.8.1/srcs/sbt-duplicates-finder-sources.jar
+2022.05.14 14:15:03 INFO  [warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+2022.05.14 14:15:03 INFO  [warn] 	::              FAILED DOWNLOADS            ::
+2022.05.14 14:15:03 INFO  [warn] 	:: ^ see resolution messages for details  ^ ::
+2022.05.14 14:15:03 INFO  [warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+2022.05.14 14:15:03 INFO  [warn] 	:: com.workday#syman-plugins;2.5.5!syman-plugins.jar(src)
+2022.05.14 14:15:03 INFO  [warn] 	:: com.workday#syman-plugins;2.5.5!syman-plugins.jar(doc)
+2022.05.14 14:15:03 INFO  [warn] 	:: org.scala-sbt#sbt-duplicates-finder;0.8.1!sbt-duplicates-finder.jar(src)
+2022.05.14 14:15:03 INFO  [warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+2022.05.14 14:15:03 INFO  [error] Couldn't run bloopGenerate for exercices-build. Cause:
+2022.05.14 14:15:03 INFO  [error] Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/Users/cristian.tudose/Documents/mylearning/scala/exercices/project/,exercices-build)), Zero, Zero, Zero),updateSbtClassifiers)))), tpe=Error, msg=None, causes=List(), directCause=Some(java.lang.IllegalArgumentException: Cannot add dependency 'ch.epfl.scala#sbt-bloop;1.5.0' to configuration 'default' of module default#exercices-build$sbt;0.1.0-SNAPSHOT because this configuration doesn't exist!))), directCause=None)), directCause=None)), directCause=None)
+2022.05.14 14:15:03 INFO  [success] Total time: 29 s, completed May 14, 2022, 2:15:03 PM
+2022.05.14 14:15:04 ERROR /Users/cristian.tudose/Documents/mylearning/scala/exercices/build.sbt:9: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2022.05.14 14:15:04 ERROR version in ThisBuild := "1.0-SNAPSHOT"
+2022.05.14 14:15:04 ERROR         ^
+2022.05.14 14:15:04 ERROR /Users/cristian.tudose/Documents/mylearning/scala/exercices/build.sbt:11: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2022.05.14 14:15:04 ERROR scalaVersion in ThisBuild := "2.13.7"
+2022.05.14 14:15:04 ERROR              ^
+2022.05.14 14:15:04 ERROR /Users/cristian.tudose/Documents/mylearning/scala/exercices/build.sbt:13: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2022.05.14 14:15:04 ERROR scalacOptions in ThisBuild += "-deprecation"
+2022.05.14 14:15:04 ERROR               ^
+2022.05.14 14:15:05 INFO  [info] loading settings for project root from build.sbt ...
+2022.05.14 14:15:05 INFO  user cancelled sbt bloopInstall
+2022.05.14 14:15:05 INFO  time: ran 'sbt bloopInstall' in 42s
+2022.05.14 14:15:28 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+May 14, 2022 2:15:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:743)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:731)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2112)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:398)
+	at scala.meta.internal.metals.MetalsLanguageServer.executeCommand(MetalsLanguageServer.scala:1853)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2022.05.14 14:16:41 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+2022.05.14 14:18:12 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+2022.05.14 14:20:04 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+2022.05.14 14:20:08 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+2022.05.14 14:20:13 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+2022.05.14 14:20:16 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+2022.05.14 14:20:21 WARN  no build target for: /Users/cristian.tudose/Documents/mylearning/scala/exercices/src/main/scala/matrix/matrix_distance_nearest_0_542.scala
+2022.05.14 14:22:03 INFO  shutting down Metals
